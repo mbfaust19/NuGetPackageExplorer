@@ -29,7 +29,7 @@
     <PackageReference Include="Uno.Microsoft.Toolkit.Uwp.UI.Controls" Version="7.0.0" />
     <PackageReference Include="Uno.Microsoft.Toolkit.Uwp.UI.Controls.DataGrid" Version="7.0.0" />
     <PackageReference Include="System.ComponentModel.Composition" Version="6.0.0-preview.1.21102.12" />
-    <PackageReference Include="System.Runtime.Caching" Version="6.0.0-preview.1.21102.12" />
+    <PackageReference Include="System.Runtime.Caching" Version="7.0.0" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\..\Core\Core.csproj" />
